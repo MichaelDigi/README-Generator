@@ -27,4 +27,4 @@
 
   ## About Me/Contact Me
   GitHub Link: [GitHub](https://github.com/Michaeldigi)
-  Email: [Email](michaeld2211@gmail.com)
+  Email: (michaeld2211@gmail.com)
