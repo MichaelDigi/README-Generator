@@ -28,3 +28,9 @@
   ## About Me/Contact Me
   GitHub Link: [GitHub](https://github.com/Michaeldigi)
   Email: (michaeld2211@gmail.com)
+
+  ## Screenshot
+  ![Screenshot](./utils/Capture.PNG)
+
+  ## Application Test Video 
+  https://watch.screencastify.com/v/FexCv9aaaa49fXPshrFC

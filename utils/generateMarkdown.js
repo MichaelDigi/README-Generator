@@ -41,7 +41,7 @@ function generateMarkdown(data) {
 
   ## About Me/Contact Me
   GitHub Link: [GitHub](https://github.com/${data.gituser})
-  Email: [Email](${data.email})
+  Email: (${data.email})
 `;
 }
 
